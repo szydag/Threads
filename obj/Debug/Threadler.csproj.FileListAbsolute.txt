@@ -1,0 +1,8 @@
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\Vize1\Threadler\bin\Debug\Threadler.exe.config
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\Vize1\Threadler\bin\Debug\Threadler.exe
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\Vize1\Threadler\bin\Debug\Threadler.pdb
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\Vize1\Threadler\obj\Debug\Threadler.csproj.AssemblyReference.cache
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\Vize1\Threadler\obj\Debug\Threadler.csproj.SuggestedBindingRedirects.cache
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\Vize1\Threadler\obj\Debug\Threadler.csproj.CoreCompileInputs.cache
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\Vize1\Threadler\obj\Debug\Threadler.exe
+C:\Users\szyda\OneDrive\Masaüstü\Donem5\İsletimSistemleri\Vize1\Threadler\obj\Debug\Threadler.pdb
